@@ -28,7 +28,6 @@ namespace Accord.DirectSound
     using System;
     using System.IO;
     using System.Threading;
-    using Accord.Compat;
     using System.Data;
 
     /// <summary>

@@ -27,7 +27,6 @@ namespace Accord.DirectSound
     using SharpDX.Multimedia;
     using System;
     using System.Threading;
-    using Accord.Compat;
     using System.Data;
 
     /// <summary>
